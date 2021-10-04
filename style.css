@@ -1,0 +1,48 @@
+@import url(https://fonts.google.com/specimen/Explora#standard-styles);
+
+body{font-family:cursive;
+
+}
+body {
+  background-image: url(https://t3.ftcdn.net/jpg/04/37/08/02/360_F_437080273_Zs3S00Z0t3kZfaDMZkV6z2riMJDx5iVV.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: black;
+}
+p{
+  font-family: 'knockout';
+  color: white;
+  text-align: center;
+  font-size: 30pt;
+  }
+p2{
+  font-family: 'knockout';
+  color: rgb(0, 0, 0);
+  text-align: center;
+  font-size: 30pt;
+  }
+h1, h2, h3 {
+  font-family: 'knockout';
+  text-align: center;
+  color: white;
+  }
+ul {
+  text-align: center;
+  color: white;
+  font-family: 'knockout';
+  font-size: 15pt;
+  list-style-type: none;
+}
+li2{
+  display: inline;
+}
+img{width:50%
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
